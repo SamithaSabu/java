@@ -1,4 +1,7 @@
 package module1;
+/** Author: SAMITHA SABU
+ * Date: 18/07/2025
+ */	
 import java.util.*;
 public class PrimeNumber {
 
